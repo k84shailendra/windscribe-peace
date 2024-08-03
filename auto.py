@@ -54,7 +54,7 @@ class tempmail:
 class createAccount:
     def __init__(self):
         self.ses = requests.Session()
-        self.url = "https://windscribe.com/signup"
+        self.url = "https://intelli1.zoolz.com/Invite?Code=SHAILENDRA2152800"
         self.ua = UserAgent()
 
     def generate_username(self):
